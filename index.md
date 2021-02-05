@@ -1,11 +1,11 @@
-LEDE由来
+LEDE项目
 -------------------------------------------------------------------
 
-1、以前的LEDE
+1、以前的LEDE项目
 
   LEDE是Linux嵌入式开发环境(Linux Embedded Development Environment)项目的简称。于2016年5月份成立，是OpenWrt项目的一个衍生(spin-off)并和openWrt有许多相同的目标。在于在构建一个嵌入式Linux发行版，使它易于被开发者、系统管理员或其他Linux爱好者为嵌入式设备尤其是无线路由器去编译(build)和定制软件。官方网站是[https://lede-project.org](https://lede-project.org) 现在已经跳转到OpenWrt,LEDE贡献了很多新的代码。2018年1月，OpenWrt和以前的LEDE项目同意以OpenWrt这一名称进行合并。新的、统一的OpenWrt项目将按照 由前LEDE项目建立的章程 进行管理。以前的LEDE和OpenWrt项目的积极成员将继续在统一的OpenWrt上工作。
   
-2、现在的LEDE
+2、现在的LEDE项目
 
    现在的LEDE是专指 [恩山Lean大神](https://www.right.com.cn/forum/space-uid-80616.html) 的名为[lede的OpenWrt项目](https://github.com/coolsnowwolf/lede) 。Lean大神做OpenWrt项目非常早，他的源码非常优秀。自他的R9开源以来，深受好评，在他的源码基础上，涌现了很多实用的APP，现在恩山流传的openwrt多半都是基于他的源码编译的。为感谢Lean大神以及各APP的开源作者的贡献，结合历史的LEDE名字以及Lean大神的lede项目名，特此取名：LEDE项目 官方网站是[https://lede-project.com](https://lede-project.com) ，希望使用Lean源码的朋友记住并感谢Lean大神。如果有能力，请捐赠他以及各APP作者，以便做得更好，走的更远！
 
