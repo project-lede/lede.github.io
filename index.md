@@ -27,7 +27,7 @@ LEDE心声
 LEDE目前只提供2个系列（官方18.06.9系列是最后一个18系列，不再维护，故停更）：
 
 * 稳如柱的 [LEDE_19.07-SNAPSHOT稳定版N系列](http://pan.lede-project.com/LEDE-X64/Stable-1907-N)
-* 
+
 * 坚入磐的 [LEDE_21.02-SNAPSHOT稳定版T系列](http://pan.lede-project.com/LEDE-X64/Stable-2102-T)
 
 * 新如处的 [LEDE_SNAPSHOT最新版D系列](http://pan.lede-project.com/LEDE-X64/Development-Snapshot-D/)
